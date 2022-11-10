@@ -22,7 +22,15 @@ class _HomePageState extends State<HomePage> {
     super.initState();
 
     //fetch data from API
+
   }
+
+      getData() async {
+        posts = await 
+
+      };
+
+
 
 
   @override
